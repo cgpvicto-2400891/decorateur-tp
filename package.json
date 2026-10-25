@@ -1,0 +1,10 @@
+{
+  "name": "exemple-patron-decorateur-javascript",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Exemple autonome du patron Décorateur en JavaScript",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "type": "module"
+}
